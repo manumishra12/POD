@@ -19,7 +19,7 @@ Problem Of The Day , Given by Vellore Institute of Technology @VIT.C
 </div>
 
 <p>
- ```@Manu Mishra```
+ ```Manu Mishra```
  </p>
 
 
