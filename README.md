@@ -1,10 +1,10 @@
 # POD- PROBLEM OF THE DAY
 ```c
-Problem Of The Day , Given by Vellore Institute of Technology @VIT.C
+🧮 Problem Of The Day , Given by Vellore Institute of Technology @VIT.C
 
 ```
 
- ``` CREDITS : Manu Mishra```
+ ```  👨🏻‍💻 CREDITS : Manu Mishra ```
 
 <br>
 <br>
